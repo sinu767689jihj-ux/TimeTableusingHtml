@@ -1,0 +1,110 @@
+<DOCTYPEhtml>
+<html>
+<head>
+<title>Time Table</title>
+</head>
+<body background="C:\Users\hihij\OneDrive\Pictures\RajaDaughterPhoto2.png" height="100" width="200px">
+<a href="https://aits-tpt.edu.in/">Annamacharya instutite of technology and science::Tirupati</a> 
+<h2 align="center"><font face="Impact" color="Red">Time Table</font></h2>
+<table border="1" height="200" width="700" align="center" bgcolor="Orange">
+<tr>
+<th rowspan="1">
+<img src="C:\Users\hihij\OneDrive\Pictures\Annamacharya-Institute-of-Technology--Sciences-kadapa-Logo3.jpg"></th>
+<th colspan="2">ANNAMACHRAYA INSTITUTE OF TECHNOLOGY & SCIENCE ::TIRUPATI<br>
+<center>DEPARTMENT OF AI&DS</center><br>
+<center>CLASS TIME TABLE(2025-26-Even Semster)</th>
+</tr>
+<tr>
+<td bgcolor="WHITE">II B.Tech II Semster</td>
+<td bgcolor="WHITE">AIDS-3</td>
+<td bgcolor="WHITE">ROOM NO:B407</td>
+</tr>
+<tr>
+<td bgcolor="WHITE">Class Teacher:Mrs.Revathi</td>
+<td bgcolor="WHITE">TOTAL NO OF STUDENTS:61</td>
+<td bgcolor="WHITE">w.e.f:09-12-2025</td>
+</tr>
+</table>
+<table border="1" height="200" width="600" align="center" bgcolor="lime">
+<tr>
+<th rowspan="2" bgcolor="White">DAY</th>
+<th bgcolor="White">1</th>
+<th bgcolor="White">2</th>
+<th bgcolor="White">3</th>
+<th bgcolor="White">4</th>
+<th bgcolor="White">          </th>
+<th bgcolor="White">5</th>
+<th bgcolor="White">6</th>
+<th bgcolor="White">7</th>
+</tr>
+<tr>
+<td align="center" bgcolor="White">09:30AM TO 10:20AM</td>
+<td align="center" bgcolor="White">10:20AM TO 11:10AM</td>
+<td align="center" bgcolor="White">11:10AM TO 12:00PM</td>
+<td align="center" bgcolor="White">12:00PM TO 12:50PM</td>
+<td align="center" bgcolor="White">12:50PM to 01:50PM</td>
+<td align="center" bgcolor="White">01:50PM TO 02:40PM</td>
+<td align="center" bgcolor="White">02:40PM TO 03:30PM</td>
+<td align="center" bgcolor="White">03:30PM TO 04:20PM</td>
+</tr>
+<tr>
+<td align="center" bgcolor="White">MON</td>
+<td align="center" bgcolor="White">IDS</td>
+<td align="center" bgcolor="White">DLCO</td>
+<td colspan="2" align="center" bgcolor="White"><----------FSD--------></td>
+<td bgcolor="WHITE">        </td>
+<td align="center" bgcolor="White">AI(CLC)</td>
+<td align="center" bgcolor="White">SMDS</td>
+<td align="center" bgcolor="White">MEFA</td>
+</tr>
+<tr>
+<td align="center">TUE</td>
+<td align="center">AI</td>
+<td align="center">MEFA</td>
+<td align="center">DLCO</td>
+<td align="center">IDS(CLC)</td>
+<td align="center">     </td>
+<td align="center">SMDS(CLC)</td>
+<td align="center">ES</td>
+<td align="center">DTI(CLC)</td>
+</tr>
+<tr>
+<td align="center">WED</td>
+<td align="center">AI</td>
+<td align="center">IDS</td>
+<td align="center">ES(CLC)</td>
+<td align="center">SMDS</td>
+<td  rowspan="4" align="center">LUNCH</td>
+<td align="center">DLCO(CLC)</td>
+<td align="center">MEFA</td>
+<td align="center">SMDS(CLC)</td>
+</tr>
+<tr>
+<td align="center">THU</td>
+<td align="center">SMDS</td>
+<td align="center">MEFA</td>
+<td align="center">MEFA(CLC)</td>
+<td align="center">IDS</td>
+<td align="center">DLCO(CLC)</td>
+<td align="center">DTI</td>
+<td align="center">AI(CLC)</td>
+</tr>
+<tr>
+<td align="center">FRI</td>
+<td align="center">AI</td>
+<td align="center">IDS(CLC)</td>
+<td align="center">DTI</td>
+<td align="center">DLCO</td>
+<td colspan="3" align="center"><----------AILAB------------></td>
+</tr>
+<tr>
+<td align="center">SAT</td>
+<td align="center">AI</td>
+<td align="center">FSD</td>
+<td align="center">IDS</td>
+<td align="center">SMDS(CLC)</td>
+<td colspan="3" align="center"><----------IDSLAB------------></td>
+</tr>
+</table>
+</body>
+</html>
